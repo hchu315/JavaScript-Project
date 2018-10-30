@@ -1,8 +1,4 @@
-# Javascript-Project
-
-## Climate Change Data Visualization:
-
-## Project Title - Rising Tide
+# Project Title - Rising Tide
 
 ### Background and Overview -
   Rising Tide is a data visualization application that seeks to shows the effect of climate change on planet Earth beginning from pre-Industrial Revolution to present day(2018). How has the temperature changed around the world? At what rate has these changes occurred? How has the sea levels changed as a result? What is the carbon footprint of an individual in a developed country? How will these effects in the environment continue to accelerate, given the current trajectory? I am motivated by the prospects of presenting easily digestable data for people to peruse to understand the effects of climate change and consider the prospects of inaction of reducing our carbon footprint as a specie.
@@ -23,7 +19,7 @@
     3) Vanilla Javascript - for user logic such as playing and stopping simulations, and API calls for data
     4) Canvas - for any additional graphic rendering needed
  
-### Implementation Timeline
+### Implementation Timeline -
     Day 1:
       a) Set up webpack
       b) Research and pick a data visualization tool
