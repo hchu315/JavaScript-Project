@@ -4,7 +4,11 @@
   Rising Tide is a data visualization application that seeks to shows the effect of climate change on planet Earth beginning from pre-Industrial Revolution to present day(2018). How has the temperature changed around the world? At what rate has these changes occurred? How has the sea levels changed as a result? What is the carbon footprint of an individual in a developed country? How will these effects in the environment continue to accelerate, given the current trajectory? I am motivated by the prospects of presenting easily digestable data for people to peruse to understand the effects of climate change and consider the prospects of inaction of reducing our carbon footprint as a specie.
   
  (bonus: storm/hurricanes intensity, what changes can we make as individuals or nations?) 
- 
+
+### Wireframes -
+
+The app will consist of a single screen with the simulation, settings and playback controls. The upper right will have links to my GitHub and LinkedIn profile.
+
 ### Functionality and MVP Features -
     Users will be able to:
     1) Start the simulation of the changes over the years at the click of a button
